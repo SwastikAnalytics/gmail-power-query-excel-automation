@@ -65,7 +65,7 @@ The project processes Excel attachments received via Gmail.
 
   **Sample Files**
 
-* **MUMBAI.xlsx**
+* MUMBAI.xlsx
 
 * **CHENNAI.xlsx**
 
