@@ -43,9 +43,9 @@ Instead of manually downloading and combining multiple Excel files, the entire w
 Many organizations receive multiple Excel reports every day through Gmail.
 The manual process involves:
 
--Downloading every attachment
+* **Downloading every attachment**
 
--Opening each Excel file
+Opening each Excel file
 
 -Copying and combining data
 
