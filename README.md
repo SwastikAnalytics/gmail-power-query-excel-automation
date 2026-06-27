@@ -51,7 +51,7 @@ The manual process involves:
 
 * **Creating a master report**
 
-  This process is repetitive, time-consuming, and prone to human errors.
+This process is repetitive, time-consuming, and prone to human errors.
 
 **🎯 Project Objective**
 
