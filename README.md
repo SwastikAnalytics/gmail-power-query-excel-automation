@@ -1,8 +1,8 @@
 **📧 Gmail Excel Attachment Automation using Google Apps Script & Power Query**
 
- Automating the extraction, transformation, and consolidation of Excel attachments received via Gmail into      a single master dataset using Google Apps Script and Microsoft Power Query.
+ Automating the extraction, transformation, and consolidation of Excel attachments received via Gmail into    a single master dataset using Google Apps Script and Microsoft Power Query.
 
- **📌 Table of Contents**
+**📌 Table of Contents**
  
 [Overview](#-overview)
 
@@ -63,9 +63,9 @@ The solution reduces manual effort, improves data accuracy, saves reporting time
 
 The project processes Excel attachments received via Gmail.
 
-**Sample Files**
+  **Sample Files**
 
- * **MUMBAI.xlsx**
+* **MUMBAI.xlsx**
 
 * **CHENNAI.xlsx**
 
@@ -94,13 +94,21 @@ After processing, all files are appended into a single Master Dataset for report
 gmail-power-query-excel-automation/
 |
 |-README.md
+|-Project_Report_Gmail_Power_Query_Excel_Automation
 |
 |-Sample-data/
 | |-MUMBAI.xlsx
+| |-CHENNAI.xlsx
+| |-DELHI.xlsx
+| |-NAGPUR.xlsx
+|
+|-output/
+| |-Combine data
+|
+|-scripts/
+| |-scripts code
+|
      
-
-
-
 ```
 
 
