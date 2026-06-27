@@ -81,7 +81,7 @@ After processing, all files are appended into a single Master Dataset for report
 
 * Power Query (M Language)
 
-* **Google Apps Script
+* Google Apps Script
 
 * Gmail API (via Web App)
 
