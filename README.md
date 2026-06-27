@@ -77,15 +77,15 @@ After processing, all files are appended into a single Master Dataset for report
 
 **🛠️ Tools & Technologies**
 
-* **Microsoft Excel**
+* **Microsoft Excel
 
-* **Power Query (M Language)**
+* **Power Query (M Language)
 
-* **Google Apps Script**
+* **Google Apps Script
 
-* **Gmail API (via Web App)**
+* **Gmail API (via Web App)
 
-* **Git & GitHub**
+* **Git & GitHub
 
 **📁 Project Structure**
 
@@ -110,6 +110,59 @@ gmail-power-query-excel-automation/
 |
      
 ```
+
+**🔄 Data Processing**
+
+The project automatically performs:
+
+* **Gmail attachment extraction
+
+* **API generation
+
+* **Power Query data import
+
+* **Base64 to Binary conversion
+
+* **Excel file loading
+
+* **Data transformation
+  
+* **Automatic append of multiple Excel files
+  
+* **Master dataset creation
+  
+**✨ Key Features**
+  
+* **Fully automated Gmail attachment extraction
+  
+* **No manual downloading of Excel files
+  
+* **Automatic data consolidation
+
+* **Dynamic Power Query refresh
+
+* **Handles multiple Excel attachments
+
+* **Reduces manual reporting effort
+
+* **Improves data accuracy
+
+* **Scalable automation workflow
+
+ **📊 Output**
+
+ The final output consists of:
+
+* **Master Excel Dataset
+
+* **Combined Data Table
+
+* **Ready-to-use Reporting Dataset
+
+* **Business-ready data for Excel
+  
+  <img src=""C:\Users\hp\Pictures\Screenshots\Screenshot 2026-06-27 143843.png"" alt="Project Architecture" width="500">
+
 
 
 
