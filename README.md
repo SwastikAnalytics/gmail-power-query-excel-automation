@@ -53,7 +53,7 @@ The manual process involves:
 
   This process is repetitive, time-consuming, and prone to human errors.
 
-  **🎯 Project Objective**
+**🎯 Project Objective**
 
 The objective of this project is to automate the collection and consolidation of Excel attachments received through Gmail into a single master dataset.
 
@@ -88,10 +88,13 @@ After processing, all files are appended into a single Master Dataset for report
 * **Git & GitHub**
 
 **📁 Project Structure**
+
 '''text
+
 gmail-power-query-excel-automation
 
 README.md
+
 '''
 
 
