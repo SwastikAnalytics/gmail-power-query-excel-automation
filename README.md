@@ -77,7 +77,7 @@ After processing, all files are appended into a single Master Dataset for report
 
 **🛠️ Tools & Technologies**
 
-* **Microsoft Excel
+* **Microsoft Excel*
 
 * **Power Query (M Language)
 
