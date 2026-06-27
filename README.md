@@ -45,12 +45,54 @@ The manual process involves:
 
 * **Downloading every attachment**
 
-Opening each Excel file
+* **Opening each Excel file**
 
--Copying and combining data
+* **Copying and combining data**
 
--Creating a master report
+* **Creating a master report**
 
-This process is repetitive, time-consuming, and prone to human errors.
+  This process is repetitive, time-consuming, and prone to human errors.
+
+  **🎯 Project Objective**
+
+The objective of this project is to automate the collection and consolidation of Excel attachments received through Gmail into a single master dataset.
+
+The solution reduces manual effort, improves data accuracy, saves reporting time, and enables faster business decision-making.
+
+**📂 Dataset**
+
+The project processes Excel attachments received via Gmail.
+
+**Sample Files**
+
+ * **MUMBAI.xlsx**
+
+* **CHENNAI.xlsx**
+
+* **DELHI.xlsx**
+
+* **NAGPUR.xlsx**
+
+After processing, all files are appended into a single Master Dataset for reporting and analysis.
+
+**🛠️ Tools & Technologies**
+
+* **Microsoft Excel**
+
+* **Power Query (M Language)**
+
+* **Google Apps Script**
+
+* **Gmail API (via Web App)**
+
+* **Git & GitHub**
+
+**📁 Project Structure**
+'''text
+gmail-power-query-excel-automation
+
+README.md
+'''
+
 
 
