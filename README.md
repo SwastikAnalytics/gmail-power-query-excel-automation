@@ -65,7 +65,7 @@ The project processes Excel attachments received via Gmail.
 
   **Sample Files**
 
-* MUMBAI.xlsx
+* **MUMBAI.xlsx**
 
 * **CHENNAI.xlsx**
 
@@ -77,15 +77,15 @@ After processing, all files are appended into a single Master Dataset for report
 
 **🛠️ Tools & Technologies**
 
-* **Microsoft Excel*
+* Microsoft Excel
 
-* **Power Query (M Language)
+* Power Query (M Language)
 
 * **Google Apps Script
 
-* **Gmail API (via Web App)
+* Gmail API (via Web App)
 
-* **Git & GitHub
+* Git & GitHub
 
 **📁 Project Structure**
 
@@ -115,54 +115,108 @@ gmail-power-query-excel-automation/
 
 The project automatically performs:
 
-* **Gmail attachment extraction
+* Gmail attachment extraction
 
-* **API generation
+* API generation
 
-* **Power Query data import
+* Power Query data import
 
-* **Base64 to Binary conversion
+* Base64 to Binary conversion
 
-* **Excel file loading
+* Excel file loading
 
-* **Data transformation
+* Data transformation
   
-* **Automatic append of multiple Excel files
+* Automatic append of multiple Excel files
   
-* **Master dataset creation
+* Master dataset creation
   
 **✨ Key Features**
   
-* **Fully automated Gmail attachment extraction
+* Fully automated Gmail attachment extraction
   
-* **No manual downloading of Excel files
+* No manual downloading of Excel files
   
-* **Automatic data consolidation
+* Automatic data consolidation
 
-* **Dynamic Power Query refresh
+* Dynamic Power Query refresh
 
-* **Handles multiple Excel attachments
+* Handles multiple Excel attachments
 
-* **Reduces manual reporting effort
+* Reduces manual reporting effort
 
-* **Improves data accuracy
+* Improves data accuracy
 
-* **Scalable automation workflow
+* Scalable automation workflow
 
  **📊 Output**
 
  The final output consists of:
 
-* **Master Excel Dataset
+* Master Excel Dataset
 
-* **Combined Data Table
+* Combined Data Table
 
-* **Ready-to-use Reporting Dataset
+* Ready-to-use Reporting Dataset
 
-* **Business-ready data for Excel
+* Business-ready data for Excel
   
-  <img src=""C:\Users\hp\Pictures\Screenshots\Screenshot 2026-06-27 143843.png"" alt="Project Architecture" width="500">
+**🚀 How to Run This Project**
 
+1.Enable IMAP in Gmail.
 
+2.Deploy the Google Apps Script as a Web App.
+
+3.Copy the generated Web App URL.
+
+4.Open Excel.
+
+5.Go to Data → Get Data → From Web.
+
+6.Paste the Web App URL.
+
+7.Refresh Power Query.
+
+8.The latest Gmail Excel attachments will be automatically consolidated.
+
+**📈 Results & Business Impact**
+
+* Eliminated manual downloading of Excel attachments
+
+* Automated repetitive reporting tasks
+
+* Reduced reporting time significantly
+
+* Improved data consistency and accuracy
+
+* Increased productivity of business teams
+
+* Enabled faster decision-making with up-to-date data
+
+**🔮 Future Improvements**
+
+* Power BI integration
+
+* SQL Database storage
+
+* Automatic scheduled refresh
+
+* Cloud deployment
+
+* Email notifications after processing
+
+* Error logging and monitoring
+
+* Duplicate attachment detection
+
+**👨‍💻 Author**
+
+Swastik Kumar
+
+B.E. Computer Engineering
+
+Data Analyst | Excel | SQL | Power BI | Python | Google Apps Script
+
+GitHub: https://github.com/SwastikAnalytics
 
 
