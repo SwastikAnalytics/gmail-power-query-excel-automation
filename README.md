@@ -5,3 +5,17 @@
  **📌 Table of Contents**
  
 [Overview](#-overview)
+
+[Business Problem](#business-problem)
+[Project Objective](#project-objective)
+[Dataset](#dataset)
+[Tools & Technologies](#tools--technologies)
+[Project Structure](#project-structure)
+[Workflow](#workflow)
+[Data Processing](#data-processing)
+[Key Features](#key-features)
+[Dashboard / Output](#dashboard--output)
+[How to Run This Project](#how-to-run-this-project)
+[Results & Business Impact](#results--business-impact)
+[Future Improvements](#future-improvements)
+[Author](#author)
