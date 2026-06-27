@@ -38,4 +38,19 @@ This project automates the process of collecting Excel attachments from Gmail an
 
 Instead of manually downloading and combining multiple Excel files, the entire workflow is automated, making business reporting faster, more accurate, and highly efficient.
 
+**💼 Business Problem**
+
+Many organizations receive multiple Excel reports every day through Gmail.
+The manual process involves:
+
+-Downloading every attachment
+
+-Opening each Excel file
+
+-Copying and combining data
+
+-Creating a master report
+
+This process is repetitive, time-consuming, and prone to human errors.
+
 
