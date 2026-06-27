@@ -89,7 +89,7 @@ After processing, all files are appended into a single Master Dataset for report
 
 **📁 Project Structure**
 
-gmail-power-query-excel-automation
+gmail-power-query-excel-automation/
 
 ```
 
