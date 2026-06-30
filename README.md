@@ -219,6 +219,6 @@ The project automatically performs:
 
 GitHub: https://github.com/SwastikAnalytics
 
-https://www.linkedin.com/in/swastik-kumar-01sep
+linkedin: https://www.linkedin.com/in/swastik-kumar-01sep
 
 
