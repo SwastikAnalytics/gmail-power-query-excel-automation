@@ -211,12 +211,14 @@ The project automatically performs:
 
 **👨‍💻 Author**
 
-Swastik Kumar
+**Swastik Kumar**
 
-B.E. Computer Engineering
+**B.E. Computer Engineering**
 
-Data Analyst | Excel | SQL | Power BI | Python | Google Apps Script
+**Data Analyst | Excel | SQL | Power BI | Python | Google Apps Script**
 
 GitHub: https://github.com/SwastikAnalytics
+
+https://www.linkedin.com/in/swastik-kumar-01sep
 
 
